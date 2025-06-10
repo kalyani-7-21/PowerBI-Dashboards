@@ -1,0 +1,95 @@
+Age Group,Gender,"What was your primary pre-qualification exam for your current degree? (e.g. JEE, NEET, MHT-CET)",Please provide your scores or rank in the pre-qualification exam.,What is your current degree or program of study?,What is your current CGPA or equivalent semester marks?,"Have you experienced any significant change in your academic interests since the pre-qualification exam? If yes, please specify.",Reason of Changes,"Are you considering or have you already changed your career path from your initial degree? (e.g., from engineering to management studies, law, entrepreneurship)","If you've changed your career path, what influenced this decision?",Are you currently pursuing any entrepreneurial ventures or expressing interest in entrepreneurship?,Do you foresee any major shifts in your career or educational path in the near future?,"How do your pre-qualification exam results connect with your current academic performance? For instance, if you took subjects like Physics, Chemistry, and Mathematics in exams like JEE, do you see a link to your current degree program, such as engineering?","Are there any external factors that played a role in your academic or career decisions?
+If yes, please elaborate. ﻿﻿﻿","Would you be open to sharing more details about your journey for potential case studies or further analysis?
+If Yes then specify."
+18 - 24,Female,MHT-CET,76.0,BTech,7.00 - 8.99,Yes ,I'm more interesting in designing part of engineering ,No,No,No,No,Best-fit,Yes ,No
+18 - 24,Male,JEE,90.0,BTech,7.00 - 8.99,No,,No,No,No,Yes,Best-fit,No,No
+18 - 24,Male,MHT-CET,79.81,BTech,7.00 - 8.99,No,,No,No,Yes,Yes,Best-fit,No,No
+18 - 24,Male,MHT-CET,89.91,BTech,> 9.00,No,,No,No,No,No,Best-fit,No,No
+18 - 24,Male,MHT-CET,88.89,BTech,7.00 - 8.99,No,,Yes,Yes ,No,No,Best-fit,No,No
+18 - 24,Male,MHT-CET,91.0,BTech,7.00 - 8.99,No,,No ,No,Yes,No,Outdated,No ,Yes
+18 - 24,Male,Diploma,85.0,BTech,7.00 - 8.99,Yes,,No,No,No,Yes,Outdated,No,No
+18 - 24,Male,Diploma ,87.0,BTech,7.00 - 8.99,No,,No,No,Yes,No,Best-fit,No,No
+18 - 24,Male,Diploma ,82.0,BTech,7.00 - 8.99,No,,No,No,No,No,Best-fit,No,No
+18 - 24,Male,Diploma ,75.76,BTech,7.00 - 8.99,No,,No,No,No,No,Best-fit,No,No
+18 - 24,Female,MHT-CET,80.6,BTech,7.00 - 8.99,Yes , finding myself getting involved in management roles for different activities ,Yes,Yes,Yes,Yes,Outdated,Yes,No
+18 - 24,Female,Diploma,84.53,BTech,7.00 - 8.99,Yes ,,No,No,No,Yes,Best-fit,No,Yes
+18 - 24,Male,MHT-CET,65.0,BTech,7.00 - 8.99,No,,No,No,No,No,Best-fit,No,No
+18 - 24,Female,MHT-CET,62.0,BTech,5.00 - 6.99,No,,Yes,No,No,No,Outdated,No,No
+18 - 24,Female,MHT-CET,80.0,BTech,7.00 - 8.99,No,,No,No ,No,No,Best-fit,No,Yes
+18 - 24,Male,JEE,92.0,BTech,7.00 - 8.99,no,,No,No,No,No,Outdated,No,No
+18 - 24,Female,MHT-CET,90.0,BTech,> 9.00,No,,No,No,No,No,Outdated,No,No 
+18 - 24,Female,HSC,66.0,BSc,7.00 - 8.99,No,,No,No,No,No,Best-fit,No,No 
+18 - 24,Male,HSC,51.0,Bsc,< 4.99,No,,No,No,No,No,Best-fit,No,No
+18 - 24,Male,MHT-CET,72.0,BTech,7.00 - 8.99,No,,No,No,No,Yes,Outdated,No,Yes
+18 - 24,Male,MHT-CET,86.83,BTech,7.00 - 8.99,No,,No,No,No,No,Best-fit,No,No
+18 - 24,Female,Diploma ,82.94,BTech,7.00 - 8.99,No,,No,No,No,No,Best-fit,No,No
+18 - 24,Male,MHT-CET,75.0,BTech,7.00 - 8.99,Yes,Interest in biomedical devices,No,No,Yes,Yes,Best-fit,Yes,Yes
+18 - 24,Male,MHT-CET,57.0,BTech,5.00 - 6.99,No,,No,No,No,Yes,Best-fit,Yes,No
+18 - 24,Female,MHT-CET,88.91,BTech,7.00 - 8.99,Yes,"Before the pre-qualification exam, I had diverse academic interests, but since then, I've developed a strong interest in electronics, particularly in circuit design and semiconductor technology, inspired by the challenges presented during the exam.",No,No ,No,Yes,Best-fit,Yes,"
+Yes"
+18 - 24,Female,MHT-CET,63.0,BTech,7.00 - 8.99,Yes , Punctuality,No,No,Yes,Yes,Outdated,No,No
+18 - 24,Male,Npat,300.0,BBA,7.00 - 8.99,No,,Yes,Yes,No,No,Best-fit,Yes,No
+18 - 24,Female,HSC,83.0,BSc,7.00 - 8.99,No ,,No,No,No,No,Best-fit,No,Yes
+18 - 24,Male,MHT-CET,76.0,BTech,7.00 - 8.99,No,,No,No,No,Yes,Outdated,No,No
+18 - 24,Female,MHT-CET,85.0,BTech,7.00 - 8.99,No,,No,No,No,No,Best-fit,Yes,No
+18 - 24,Male,Diploma,80.0,BTech,7.00 - 8.99,Yes,My primary interest lies in medicines ,Yes ,Yes,No,Yes,Outdated,Yes,No
+25 - 35,Female,CAT,98.77,MBA,> 9.00,No,,No,No,Yes,No,Best-fit,No,No
+25 - 35,Male,CAT,98.87,MBA,5.00 - 6.99,No,,No,No,Yes,No,Outdated,No,No
+36 - 50,Male,HSC,80.0,BSc,> 9.00,Yes,,Yes,Yes,Yes,No,Outdated,No,No
+25 - 35,Male,GATE,65.0,MTech,7.00 - 8.99,No,,No,No,Yes,No,Best-fit,No,No
+18 - 24,Male,JEE,81.6,BTech,> 9.00,No,,No,No,Yes,No,Best-fit,None,Yes
+25 - 35,Female,NEET,97.89,MBBS,> 9.00,No,,No,No,Yes,No,Outdated,No,No
+36 - 50,Male,NEET,99.96,MBBS,7.00 - 8.99,No,,No,No,No,No,Best-fit,No,No
+> 51,Female,NEET PG,99.998,MD,> 9.00,No,,No,No,Yes,No,Best-fit,No,No
+18 - 24,Male,MHT-CET,91.0,BTech,> 9.00,Yes ,I don't get more time for my study,No,No,Yes,No,Best-fit,Yes ,No
+18 - 24,Male,MHT-CET,90.0,BTech,7.00 - 8.99,No,,No,No,Yes,No,Outdated,No,No
+25 - 35,Male,MHT-CET,89.0,BTech,7.00 - 8.99,Yes,No Exact Reason,No,Yes,Yes,No,Best-fit,No,No
+18 - 24,Female,MHT-CET,88.09,BTech,7.00 - 8.99,Yes,I'm from EXTC branch but at times I feel inclination towards CS-IT...but I'm trying to keep up with both,No,No,Yes,Yes,Best-fit,No,No
+18 - 24,Female,MHT-CET,90.1850615,BTech,7.00 - 8.99,Yes ,Because of having no aim like a jee exam our study interest is de reading because we don't have a reason to study,No,No,No,Yes,Best-fit,Yes,Yes
+18 - 24,Female,MHT-CET,90.0942655,BTech,> 9.00,No,,No,No,No,Yes,Best-fit,No,No
+18 - 24,Female,MHT-CET,84.4,BTech,7.00 - 8.99,No,,No,No,Yes,Yes,Best-fit,No,No
+18 - 24,Male,MHT-CET,59.91,BTech,5.00 - 6.99,No,,No,No,No,No,Best-fit,No,No
+18 - 24,Female,MHT-CET,85.06,BTech,> 9.00,Yes, I have gotten more focused.,No,No,No,No,Outdated,No,Yes
+18 - 24,Female,Diploma ,90.0,BTech,> 9.00,Yes,,No,Yes,Yes,Yes,Best-fit,Yes,Yes
+25 - 35,Male,GATE,99.45,MTech,7.00 - 8.99,Yes,Not enough placement in field ,Yes,Yes,No,Yes,Best-fit,Yes,No 
+18 - 24,Male,MHT-CET,90.0,BTech,7.00 - 8.99,Yes,,No,No,Yes,Yes,Outdated,Yes,Yes
+18 - 24,Female,MHT-CET,56.0,BTech,> 9.00,Yes,I have found my inclinations in particular subjects,No,No,No,Yes,Outdated,Yes,Yes
+18 - 24,Male,MHT-CET,90.0,BTech,7.00 - 8.99,No,,No,No,Yes,Yes,Outdated,No,No
+18 - 24,Male,MHT-CET,97.0,BTech,> 9.00,No,,Yes,No,Yes,Yes,Outdated,No,No
+18 - 24,Male,JEE,50.0,BTech,> 9.00,No,,No,No,No,No,Outdated,No,Yes
+18 - 24,Male,MHT-CET,64.98,BTech,7.00 - 8.99,No,,Yes,No,Yes,No,Outdated,No,No
+18 - 24,Male,MHT-CET,95.39,BTech,> 9.00,Yes, Earlier there was more focus on theoretical knowledge but now there is application of both theory as well as practical implementation.,No,No,No,Yes,Best-fit,No,Yes
+18 - 24,Male,HSC,50.04,BSc,7.00 - 8.99,No,,No,No,Yes,No,Best-fit,No,Yes
+18 - 24,Male,MHT-CET,72.0,BTech,7.00 - 8.99,No,,No,No,No,No,Best-fit,No,No
+18 - 24,Female,HSC,85.0,BSc,7.00 - 8.99,No,,No,No,No,Yes,Best-fit,No,No 
+18 - 24,Female,MHT-CET,92.31,BTech,> 9.00,Yes,"I was desperate to get into CS/IT but since I am in EXCS, I have started liking Electronics",No,No,No,No,Best-fit,No,No
+18 - 24,Male,MHT-CET,90.32,BTech,7.00 - 8.99,No,,No,None,Yes,Yes,Outdated,No,No
+18 - 24,Male,JEE,92.9,BTech,> 9.00,Yes,No reason,Yes,No,Yes,Yes,Outdated,Yes,No
+18 - 24,Male,MHT-CET,89.95,BTech,7.00 - 8.99,No,,No,No,No,No,Outdated,No,No
+18 - 24,Male,JEE,82.0,BTech,7.00 - 8.99,No,,No, No,No,No,Best-fit,No,No
+18 - 24,Male,MHT-CET,90.0,BTech,7.00 - 8.99,No,,No,No,Yes,Yes,Best-fit,No,"
+No"
+18 - 24,Male,Diploma ,89.0,BTech,7.00 - 8.99,Yes,,No ,Yes,No,Yes,Best-fit,No ,No
+18 - 24,Male,MHT-CET,82.0,BTech,7.00 - 8.99,No,,No,No,No,No,Best-fit,Yes,No
+18 - 24,Male,JEE,90.42,BTech,> 9.00,Yes,Specially not that much but yes a bit of practicality in learning can se sensed in colleges/higher degrees than what we have before our pre-qualification exams.,No,No,Yes,No,Outdated,No,No
+18 - 24,Female,MHT-CET,66.5,BTech,7.00 - 8.99,Yes, Towards Electronics and Data Science.,No,No,No,No,Outdated,No,Yes
+18 - 24,Female,MHT-CET,86.0,BTech,> 9.00,No ,,No,No,No,Yes,Outdated,No,Yes
+18 - 24,Female,MHT-CET,89.0,BTech,> 9.00,No,,No,No,No,No,Best-fit,Yes,No
+18 - 24,Male,MHT-CET,89.9,BTech,7.00 - 8.99,No,,No ,No,Yes,No,Outdated,No ,Yes
+18 - 24,Male,Diploma ,65.0,BTech,5.00 - 6.99,No,,No,No,Yes,Yes,Best-fit,No,No
+18 - 24,Male,JEE,92.8,BTech,> 9.00,No,,Yes,Yes,No,No,Best-fit,No,No
+18 - 24,Male,MHT-CET,83.47,BTech,7.00 - 8.99,Yes,It is getting degraded due the 3 mid sem assement as the level of stress increases rather than knowledge which doesn't help us students ,No,No,Yes,Yes,Outdated,No,No
+18 - 24,Male,HSC,72.0,BSc,7.00 - 8.99,No,,Yes,Yes,Yes,Yes,Best-fit,No,Yes
+18 - 24,Male,MHT-CET,73.0,BTech,> 9.00,Yes,,Not,No,Yes,Yes,Outdated,No,Yes
+18 - 24,Male,NEET,712.0,MBBS,> 9.00,No,,No,No,No,Yes,Outdated,Yes,No
+18 - 24,Female,JEE,52.0,BTech,7.00 - 8.99,No,,No,No,No,No,Best-fit,No,Yes
+18 - 24,Female,MHT-CET,88.16,BTech,> 9.00,No,,No,No,No,No,Outdated,No,No
+18 - 24,Male,JEE,93.0,BTech,7.00 - 8.99,No ,,No,Yes,No,No,Best-fit,No,No 
+18 - 24,Female,MHT-CET,90.2,BTech,7.00 - 8.99,No,,No,No,No,No,Best-fit,No,No
+18 - 24,Female,MHT-CET,68.0,BTech,> 9.00,No,,No,No,No,No,Best-fit,Yes,No 
+18 - 24,Female,MHT-CET,91.22,BTech,> 9.00,No,,No,No,No,No,Outdated,no,No
+18 - 24,Female,MHT-CET,70.0,BTech,> 9.00,Yes,,No,No,No,No,Best-fit,No,No
+18 - 24,Female,MHT-CET,96.0,BTech,> 9.00,No,,No,No,No,Yes,Outdated,No,No
+18 - 24,Male,JEE,95.0,BTech,7.00 - 8.99,No,,No,No,No,No,Best-fit,No,No
+18 - 24,Female,MHT-CET,96.0,BTech,> 9.00,No,,No,No,No,No,Outdated,No,No
+18 - 24,Male,MHT-CET,98.37,BTech,> 9.00,Yes ,From from 10th standard i had decided to purse the computer engineering because i was interested in how the computer system work and how application works,No,Yes,No,Yes,Best-fit,Yes,No
