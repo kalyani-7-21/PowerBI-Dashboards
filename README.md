@@ -1,7 +1,7 @@
 # Power BI Dashboards Repository
 
 ## 📊 Overview
-This repository showcases interactive Power BI dashboards created to visualize and analyze data across different domains—Finance, Sales, and Education.
+This repository showcases interactive Power BI dashboards created to visualize and analyze data across different domains like Finance, Sales, and Education.
 
 ## 🗂️ Repository Structure
 /Financial Dashboard 
