@@ -7,7 +7,8 @@ This repository showcases interactive Power BI dashboards created to visualize a
 /Financial Dashboard 
 /Sales Dashboard 
 /Student Performance Dashboard
-/EPBL - Bank Loan of Customer Dashboard 
+/EPBL - Bank Loan of Customer Dashboard
+/Walmart Sales Dashboard 
 /AQI Dashboard
 
 Each folder contains:
