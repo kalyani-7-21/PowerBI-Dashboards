@@ -8,6 +8,7 @@ This repository showcases interactive Power BI dashboards created to visualize a
 /Sales Dashboard 
 /Student Performance Dashboard
 /EPBL - Bank Loan of Customer Dashboard 
+/AQI Dashboard
 
 Each folder contains:
 - `.pbix` files with the respective dashboards
